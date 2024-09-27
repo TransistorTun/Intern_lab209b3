@@ -1,0 +1,25 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Industrial 4G Edge Ro}}{2}{figure.caption.5}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Cảm biến ánh sáng công nghiệp ES-ALS-01}}{3}{figure.caption.6}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Module giao tiếp TTL RS485}}{4}{figure.caption.8}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Nền tảng Thingsboard}}{5}{figure.caption.9}%
+\contentsline {figure}{\numberline {5}{\ignorespaces App EspTouch trên điện thoại di động}}{5}{figure.caption.10}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Kit vi xử lý Atmega324PA}}{6}{figure.caption.11}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Code đọc ADC ATmega324PA}}{7}{figure.caption.12}%
+\contentsline {figure}{\numberline {8}{\ignorespaces STM32F030F4P6}}{7}{figure.caption.13}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Schematic mạch ra chân ADC cho STM32F030FF4P6}}{8}{figure.caption.14}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Thứ tự config ADC}}{9}{figure.caption.15}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Set output ADC trên IOC}}{9}{figure.caption.16}%
+\contentsline {figure}{\numberline {12}{\ignorespaces STM32F411VET6}}{10}{figure.caption.17}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Cấu hình cho STM32F4}}{10}{figure.caption.18}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Cấu hình xung clock cho STM32F4}}{11}{figure.caption.19}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Code đọc ADC cho STM32F4 bằng thư viện LL}}{11}{figure.caption.20}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Cấu hình USB Mass Storage cho STM32F7}}{13}{figure.caption.21}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Cấu hình USB Mass Storage cho STM32F7}}{13}{figure.caption.22}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Cấu hình xung clock USB}}{14}{figure.caption.23}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Cấu hình xung clock USB}}{16}{figure.caption.24}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Sơ đồ API FATFs hoạt động trên STM32}}{16}{figure.caption.25}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Dashboard}}{18}{figure.caption.27}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Dashboard}}{18}{figure.caption.28}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Kết quả đo ADC chip STM32F411VET6}}{19}{figure.caption.29}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Kết quả đo ADC chip ATMEGA324PA}}{19}{figure.caption.30}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Kết quả đo ADC chip STM32F030F4P6}}{20}{figure.caption.31}%

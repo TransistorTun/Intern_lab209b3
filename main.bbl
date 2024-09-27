@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{zephyr-docs}
+Z.~Project, ``Zephyr project documentation.''
+  \url{https://docs.zephyrproject.org/latest/index.html}, 2024.
+
+\bibitem{modbustools}
+W.~Software, ``Modbus tools.'' \url{https://www.modbustools.com/modbus.html},
+  2024.
+
+\bibitem{lvglDocumentation}
+{LVGL Developers}, ``Lvgl documentation: Overview.''
+  \url{https://docs.lvgl.io/master/overview/index.html}, 2024.
+
+\end{thebibliography}

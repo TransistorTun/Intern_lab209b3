@@ -1,0 +1,21 @@
+\contentsline {section}{\hbox to\@tempdima {\hfil } PHẦN I: NỘI DUNG THỰC TẬP}{1}{table.caption.2}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 1. Mục đích thực tập}{1}{section*.3}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 2. Thời gian thực tập}{1}{section*.3}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 3. Địa điểm thực tập}{1}{table.caption.4}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4. Nội dung thực tập}{2}{table.caption.4}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.1. Tìm hiểu và sử dụng Gateway Industrial 4G Edge Ro}{2}{table.caption.4}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 3.2. Phát triển hệ thống giám sát độ sáng}{3}{figure.caption.5}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.3. KKiểm tra hoạt động của ADC trên hai dòng chip AVR và STM32}{5}{figure.caption.10}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.4. Nghiên cứu và phát triển USB Mass Strorage bằng ESP32 và STM32}{11}{figure.caption.20}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.4.1. Giới thiệu lý do sử dụng USB Mass Storage trên STM32 và ESP32}{11}{figure.caption.20}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.4.2. Cấu hình USB Mass Storage trên STM32F746NGH6}{12}{figure.caption.20}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.4.3. Cấu hình USB Mass Storage trên ESP32S3}{14}{figure.caption.23}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.5. Nghiên cứu và phát triển USB Mass Strorage bằng ESP32 và STM32}{15}{lstnumber.-1.27}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.5.1. Giới thiệu về FATFs}{15}{lstnumber.-1.27}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 4.5.2. Tích hợp thư viện FATFs vào một dự án sử dụng chip STM32}{17}{figure.caption.25}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } PHẦN II: KẾT QUẢ THỰC TẬP}{18}{figure.caption.25}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 1. Phát triển hệ thống giám sát cường độ sáng}{18}{section*.26}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 2. Kiểm tra hoạt động ADC trên hai dòng chip AVR và STM32}{18}{figure.caption.27}%
+\contentsline {section}{\hbox to\@tempdima {\hfil } PHẦN III: TỔNG KẾT THỰC TẬP}{21}{figure.caption.31}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 1. Kinh nghiệm, kiến thức học được sau khi thực tập}{21}{section*.32}%
+\contentsline {subsection}{\hbox to\@tempdima {\hfil } 2. Cảm nghĩ sau thực tập}{21}{section*.32}%
